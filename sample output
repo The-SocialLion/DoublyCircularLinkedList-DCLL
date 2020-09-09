@@ -1,0 +1,71 @@
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice1
+enter element10
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice2
+enter position2
+enter element13
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice2
+enter position3
+enter element15
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice3
+enter element100
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice8
+10 13 15 100 
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice4
+deleted item  10
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice8
+13 15 100 
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice5
+enter element15
+deleted item 15
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice8
+13 100 
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice6
+deleted item 100
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice8
+13 
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice4
+deleted item  13
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
+enter your choice8
+list is empty
+1.Insert beg,2.Insert mid,3.Insert end
+4.delete beg 5.delete mid,6.delete end
+7.find,8.traverse,9.exit
